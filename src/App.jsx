@@ -1,14 +1,9 @@
-
-
-
 function App() {
-  
-
   return (
     <>
-      <h1>dev aa gya</h1>
+      <h1 style={{ color: "red" }}>text change</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
